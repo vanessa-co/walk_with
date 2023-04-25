@@ -1,11 +1,3 @@
-# import secrets
-# from flask import request, make_response
-# from flask_restful import Resource
-# from sqlalchemy.exc import IntegrityError
-
-# from config import app, db, api
-# #from models import
-
 import secrets
 from flask import request, jsonify
 from flask_restful import Resource
